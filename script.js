@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-  background(190, 90, 400);
+  background(190, 500, 200);
 
   if (mouseIsPressed) {
     textSize(56);
